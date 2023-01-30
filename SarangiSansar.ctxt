@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SarangiSansar
+comment0.text=\ \r\n\ This\ class\ generates\ GUI\ for\ the\ program\ and\ contains\ the\ main\ method.\r\n\r\n\ @author\ (Nitin\ Tandukar)\r\n\ @version\ (July\ 2022)\r\n
+comment1.params=
+comment1.target=SarangiSansar()
+comment1.text=Construction\ creation*
+comment2.params=
+comment2.target=void\ activateDarkMode()
+comment3.params=
+comment3.target=void\ activateLightMode()
+comment4.params=
+comment4.target=void\ addCompToRentPanel()
+comment5.params=
+comment5.target=void\ addCompToSellPanel()
+comment6.params=
+comment6.target=void\ clearForm()
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
